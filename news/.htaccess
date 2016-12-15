@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 /loi.404.php
